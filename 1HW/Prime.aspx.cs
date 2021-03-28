@@ -17,7 +17,7 @@ namespace _1HW
             {
                 if (i_Prime % i == 0)
                 {
-                    i_ans += 1;
+                    i_ans ++;
                 }
             }
             if (i_ans == 2)
